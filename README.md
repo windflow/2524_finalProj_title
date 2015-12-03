@@ -16,6 +16,8 @@
 #E-mail account(gmail not garunteed to work, maybe hotmail or yahoo)
 #Most server like AT&T, verizon work perfectly
 
+#Hope you enjoy!
+
 #To continue:
 
 
